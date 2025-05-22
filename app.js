@@ -8,7 +8,7 @@
 function setCountdown() {
 
     // Set countdown date
-    let countdownDate = new Date('May 5, 2025 20:00:00').getTime();
+    let countdownDate = new Date('May 23, 2025 23:59:59').getTime();
 
     // Update countdown every second
     let updateCount = setInterval(function(){
